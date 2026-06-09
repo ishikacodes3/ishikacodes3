@@ -1,5 +1,4 @@
-## Hi there 👋
-  I'm Ishika 👋
+## Hi, I'm Ishika 👋
 
 🎓 B.Tech Student | Aspiring Software Developer
 
